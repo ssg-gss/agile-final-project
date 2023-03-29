@@ -1,13 +1,4 @@
 ---
-name: ISSUE_TEMPLATE
-about: Issue template for user story
-title: user-story
-labels: ''
-assignees: ''
-
----
-
----
 name: User Story
 about: Template for User Story
 title: ''
